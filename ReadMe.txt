@@ -2,4 +2,6 @@
 https://www.youtube.com/playlist?list=PLIszp1yoSeQ8
 
 TODO:
-Выучить теорию;
+0. Выучить теорию наизусть;
+1. Установить VisualParadigm: https://www.visual-paradigm.com/download/community.jsp;
+2. Построить ERD для Академии;
